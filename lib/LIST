@@ -1,0 +1,7 @@
+Obter dados Json e Exibir no ListView 
+
+1. Definir o EndPoint(URL)para obter os dados;
+2.Adicionar o pacote Http 
+3.Fazer uma requisição na intert usando metodo get do pacote Http 
+4. Converter Resposta em um Objeto dart personalizado 
+5.Pegar e Exibir os dados com o ListView
